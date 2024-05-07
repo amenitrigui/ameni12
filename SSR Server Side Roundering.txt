@@ -1,0 +1,8 @@
+SSR :Server Side Roundering
+
+node.js : backend 
+next.js : frondend de react 
+crrer un dosieer
+npm init : packge .json
+npm install exppress: ye5o ili mawjoud fl internet o isiboo fl fichier
+get  taffichi haja bl navigateur
